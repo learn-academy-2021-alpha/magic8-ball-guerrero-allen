@@ -3,8 +3,12 @@ body{
   text-align:center;
   font-family: 'Anton', sans-serif;
   height: 90vh;
+  background-image: url("https://wallpaperaccess.com/full/1783828.jpg");
+  background-size:cover
 }
 h1{
   text-decoration: underline;
-  font-size: 40px;
+  font-size: 100px;
+  color:antiquewhite;
+  font-family: 'Creepster', cursive;
 }
