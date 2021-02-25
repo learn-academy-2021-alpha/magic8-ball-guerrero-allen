@@ -46,7 +46,7 @@ class App extends React.Component {
         <button onClick={ this.handleSubmit }>
           Ask the Magic 8 Ball a Question
         </button>
-        <p> { this.state.answer } </p>
+        <p className = "answers"> { this.state.answer }</p>
       </div>
     )
   }
